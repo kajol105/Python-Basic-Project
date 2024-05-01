@@ -89,7 +89,6 @@ Nested loop is a loop within the another loop. It is used when we want we want t
 
 ![Screenshot (727)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/f2242dcf-b423-4608-b763-d1748dde9158)
 
-![Screenshot (728)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/d91fed86-6b0c-4a1f-aa79-04ae3cf7a
 
 # UDF: Arguments and Parameters
 
