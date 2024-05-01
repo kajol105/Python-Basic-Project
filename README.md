@@ -44,6 +44,10 @@ Nested loop is a loop within the another loop. It is used when we want we want t
 ### Strings are ordered sequences of character data. Indexing allows us to access individual characters in a string directly by using a numeric value. String indexing is zero-based: the first charachter in the string has index 0, the next is 1 ans so on.
 ![Screenshot (709)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/f31d168f-586b-421c-9a94-8cbd9635be6c)
 
+![Screenshot (710)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/dcdb9101-0044-4f60-ac28-92bd2a850826)
+
+
+
 
 
 
