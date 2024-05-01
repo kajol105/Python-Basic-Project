@@ -63,6 +63,57 @@ Nested loop is a loop within the another loop. It is used when we want we want t
 ![Screenshot (716)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/b7b83ca6-7feb-42f7-9cca-e137bf09908a)
 
 
+![Screenshot (717)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/122d4883-24af-4423-8702-b9b05d51c02b)
+
+# Dictionary
+## Dictionaries are used to store data values in key:value pairs. A dictionary is a collection which is ordered,changeable and do not allow duplicates. Dictionaries are written with curly brackets. Dictionaries are changeable because we can add, remove iteams after the dictionary has been created.
+
+![Screenshot (718)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/2c53126a-8d11-486b-9bb8-1cb95ba83f1a)
+
+![Screenshot (719)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/57aaee62-d04f-4633-9309-45f1ebcfb03d)
+
+![Screenshot (721)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/5aafeba6-d61c-4c13-8944-78444c46f0c4)
+
+![Screenshot (722)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/8316994a-b98e-4fc3-9159-cefea5a1ef0d)
+
+![Screenshot (723)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/1338b909-c383-400b-a8d5-09d2a591a754)
+
+![Screenshot (724)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/6fa268b9-323d-48b3-8373-c8c97f297b36)
+
+![Screenshot (725)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/79ee9270-865e-47d8-8931-698a9a31b975)
+
+# Tuple
+## Python tuple are a type of data structure that is very similar to lists. The main difference between the two is that tuples are immutable,meaning they can not be changed.
+
+![Screenshot (726)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/4d070608-4c08-4bed-b820-89e1218ba618)
+
+![Screenshot (727)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/f2242dcf-b423-4608-b763-d1748dde9158)
+
+![Screenshot (728)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/d91fed86-6b0c-4a1f-aa79-04ae3cf7a
+
+# UDF: Arguments and Parameters
+
+### A function is a set of statements that take inputs, do some specific computation, and produce output. The idea is to put some commonly or repeatedly done tasks together and make a function so that instead of writing the same code again and again for different inputs, we can call the function. Functions that readily come with Python are called built-in functions. Python provides built-in functions like print(), etc. but we can also create your own functions. These functions are known as user defines functions
+### Python User-defined functions
+All the functions that are written by any of us come under the category of user-defined functions. Below are the steps for writing user-defined functions in Python.
+
+In Python, a def keyword is used to declare user-defined functions. 
+An indented block of statements follows the function name and arguments which contains the body of the function. 
+### Python Parameterized Function
+The function may take arguments(s) also called parameters as input within the opening and closing parentheses, just after the function name followed by a colon.
+
+![Screenshot (729)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/f989e70e-55af-4857-aa13-f7dde6bdb637)
+
+![image](https://github.com/kajol105/Python-Basic-Project/assets/55199887/04d66d7c-a7ad-4109-825d-8188ae6752f4)
+
+![Screenshot (731)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/325d0d06-e12c-45e9-87ea-12dd7fcf8393)
+
+![Screenshot (732)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/44ba771c-4116-49a9-8318-eed4aa0381dc)
+
+![Screenshot (733)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/0970ce0d-58bf-4bdb-8975-17297c82e8c8)
+
+
+
 
 
 
