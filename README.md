@@ -24,5 +24,27 @@ Nested loop is a loop within the another loop. It is used when we want we want t
 
 ![Screenshot (705)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/12b29545-cdb0-4ced-9122-8072d2da9196)
 
+### Loop Control Statements
+#### Lpop control statements are used to alter the normal flow of the looping statements in python. There are three types of loop control statements in python which are break, continue and pass
+1. Break statement:
+  The break statement is used to terminate the loop in prematurely in python. It is used when we want to exit the loop before it has completed all of its iterations.
+2. Continue statement:
+  The continue statement is used to skip the current iteration of the loop. It is used when we want to skip a certain element in the sequence and continue with the next iteration of the loop.
+3. Pass statement:
+  The pass statement is used as a placeholder in python. It is used when we want to wrtite empty code blocks and want to come back and fill the in later
+
+![Screenshot (706)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/3f384092-03a0-4a5e-b9f2-1f1187672acb)
+
+![Screenshot (707)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/2c7b5254-6e62-4700-9425-45598573b753)
+
+
+![Screenshot (708)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/5e1f9ffa-37fa-4f89-a935-49630f555ac0)
+
+#  String Indexing
+### Strings are ordered sequences of character data. Indexing allows us to access individual characters in a string directly by using a numeric value. String indexing is zero-based: the first charachter in the string has index 0, the next is 1 ans so on.
+![Screenshot (709)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/f31d168f-586b-421c-9a94-8cbd9635be6c)
+
+
+
 
 
