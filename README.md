@@ -16,4 +16,13 @@ Nested loop is a loop within the another loop. It is used when we want we want t
 
 ![Screenshot (701)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/9249480f-d51e-4e5b-aa77-45599843b544)
 
-![image](https://github.com/kajol105/Python-Basic-Project/assets/55199887/a633977e-ea22-4706-9489-3410804287a1)
+![Screenshot (702)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/d895c9d1-ddbf-4557-b0eb-18918484a094)
+
+![Screenshot (703)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/5a66ce59-3cd8-42d4-b8f0-8eadb2882a01)
+
+![Screenshot (704)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/cd777820-d1c2-4009-8c59-45bfc9b78e6f)
+
+![Screenshot (705)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/12b29545-cdb0-4ced-9122-8072d2da9196)
+
+
+
