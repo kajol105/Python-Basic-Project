@@ -42,9 +42,29 @@ Nested loop is a loop within the another loop. It is used when we want we want t
 
 #  String Indexing
 ### Strings are ordered sequences of character data. Indexing allows us to access individual characters in a string directly by using a numeric value. String indexing is zero-based: the first charachter in the string has index 0, the next is 1 ans so on.
+
 ![Screenshot (709)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/f31d168f-586b-421c-9a94-8cbd9635be6c)
 
 ![Screenshot (710)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/dcdb9101-0044-4f60-ac28-92bd2a850826)
+
+![Screenshot (711)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/d9916543-8f53-4b9b-a5ec-c89caae66c61)
+
+![Screenshot (712)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/f7d2896e-43b1-48ea-810e-61ff42ab2af1)
+
+![Screenshot (713)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/b103ce37-7986-4891-80ed-368299986855)
+
+# List Operations
+### Python is a collection of things,enclosed in [ ] and separated by commas. List are the simplest containers that are an integral part of the python language. List need not to be homogenous always which makes it powerful tool in python. A single list may contain DataTypes like integers, Strings as well as objects. List are mutable,and hence they can be altered even after their creation.
+
+![Screenshot (714)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/60e93ba6-fa49-40d3-90e3-1a5fd780d607)
+
+![Screenshot (715)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/5d73e6ac-89b0-4809-a6e8-878df6a6c719)
+
+![Screenshot (716)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/b7b83ca6-7feb-42f7-9cca-e137bf09908a)
+
+
+
+
 
 
 
