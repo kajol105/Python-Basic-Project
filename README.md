@@ -111,13 +111,45 @@ The function may take arguments(s) also called parameters as input within the op
 
 ![Screenshot (733)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/0970ce0d-58bf-4bdb-8975-17297c82e8c8)
 
+![Screenshot (911)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/5ca0c6bb-ea14-4cb5-bee8-d31d6e14a6fe)
+
+![Screenshot (912)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/dcc80b81-bf07-4c02-af55-ba609af85580)
+
+![Screenshot (913)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/9071cf35-f293-420e-b58c-2a314d5e8f5c)
+
+
+# lambda functions
+## Python lambda functions are anonymous functions that the function is without a name. As we already know the def keyword is used to define a normal function in python. Similarly,the lambda keyword is used to define an anonymous function in python.
+
+![Screenshot (914)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/bac8de05-0301-49f5-b593-dc490aee00ae)
+
+
+
+ # List Comprehension
+ # A list comprehension is an elegant, concise way to define and create a list in python. The code is written is a much easier-to-read format. Python list comprehensions consists of sqaure brackets containing an expression,which is executed for each element in an iterable.
+
+ ![Screenshot (915)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/10a1b4c4-d053-4756-acdf-b706fca93fd2)
+ ![Screenshot (916)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/b8304e15-b0bb-4bc5-8368-b55924eefe8c)
+
+
+# Objects and Classes 
+# Python is an object-oriented programming language.This means that almost all the code is implemented using the special construct called classes. A class is a code template for creating objects.
+![Screenshot (917)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/dcb229d7-399c-4ea9-867c-f957099748e9)
+![Screenshot (918)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/aec26d49-8233-4037-996a-cb2ca9d440f6)
+
+![Screenshot (919)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/51711141-83d1-4c88-acfb-9dfc1a25a4b8)
+![Screenshot (920)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/172ab5fd-146b-4f77-b5e5-2ab7ee859009)
+
+
+![Screenshot (921)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/5d500b46-173a-41ab-838b-9e99bec6fc03)
+![Screenshot (922)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/839a4c6b-77e6-4c0d-96ba-53da9f9897e8)
+
+![Screenshot (923)](https://github.com/kajol105/Python-Basic-Project/assets/55199887/d302069c-cbc0-4ada-ae00-6a26e6dd3b69)
 
 
 
 
-
-
-
+ 
 
 
 
